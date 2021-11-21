@@ -1,2 +1,2 @@
-# Kendime Anlatan Ilk Web Sitem
+# Kendimi Anlatan Ilk Web Sitem
 Patika.dev Frontend eğitimi kapsamında yapılmıştır.
